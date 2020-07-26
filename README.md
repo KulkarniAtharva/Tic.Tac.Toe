@@ -6,7 +6,7 @@ Tic Tac Toe game developed using HTML, CSS &amp; JavaScript 💥
 
 Published using GitHub Pages
 
-Click [here](https://kulkarniatharva.github.io/Car.Animation/program.html) for preview
+Click [here]( https://kulkarniatharva.github.io/Tic.Tac.Toe/index.html) for preview
 ### Licence
 
 ```
